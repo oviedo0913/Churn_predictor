@@ -11,11 +11,11 @@ This project is developed to help prevent user churn on the Waze app, focusing o
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Jupyter</b>
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Jupyter</b>
 
 <h2>Program walk-through:</h2>
 
