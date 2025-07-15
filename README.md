@@ -20,7 +20,7 @@ This project is developed to help prevent user churn on the Waze app, focusing o
 <h2>Program walk-through:</h2>
 
 <p align="center">
-1. Project Proposal:()
+1. Project Proposal:(1. Project Proposal.pdf)
 2. Preliminary Data summary:()
 3. EDA summary report:()
 4. T-stats summary report:()
