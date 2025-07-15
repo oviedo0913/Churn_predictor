@@ -20,7 +20,7 @@ This project is developed to help prevent user churn on the Waze app, focusing o
 <h2>Program walk-through:</h2>
 
 <p align="center">
-1. Project Proposal:(1. Project Proposal.pdf)
+1. Project Proposal:(1. Project Proposal.pdf](https://github.com/oviedo0913/churn_predictor/blob/f71c35204e3267fb3266819bcade38b3b8cd8704/1.%20Project%20Proposal.pdf)
 2. Preliminary Data summary:()
 3. EDA summary report:()
 4. T-stats summary report:()
